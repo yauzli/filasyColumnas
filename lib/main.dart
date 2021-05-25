@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(MiFilaColumnaApp());
+void main() => runApp(MiColumnaApp());
 
-class MiFilaColumnaApp extends StatelessWidget {
+class MiColumnaApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
